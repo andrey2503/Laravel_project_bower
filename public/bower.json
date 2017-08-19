@@ -1,0 +1,14 @@
+{
+  "name": "cilindors",
+  "authors": [
+    "andrey2503 <andreytorresvega@gmail.com>"
+  ],
+  "description": "cilindros",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-material-design":"4.0.2"
+  }
+}
